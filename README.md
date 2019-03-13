@@ -1,7 +1,8 @@
 # For Professor Yusuke Miyao
-###### I am very glad that you have come in. There are two parts below. The first part is my simple CV. The second part is project research plan with a lot of details. I prepared in English and Japanese respectively.
-###### I think taking up a lot of your time is offensive to you if you are very busy. If so, you don't need to look at the second part, and it doesn't matter to me.
-###### I marked the paragraphs that I think are important in red..
+###### I am very glad that you have come in. There are two parts below. The first part is my simple CV. The second part is my project research plan with a lot of details.
+###### I think taking up a lot of your time is offensive to you if you are very busy. If so, you don't need to look at the second part, and it doesn't matter.
+###### In order to make your reading easier, I have prepared three languages and two languages for the two parts. Their content is exactly the same except for the language.
+###### I marked the paragraphs that I think are important in red.
 #### 1.CV
 ###### For the CV, I have prepared English, Japanese, and Chinese in three languages.
 ###### [CV English](https://mubu.com/doc/gsv4CCbQg0 "CV English")   
