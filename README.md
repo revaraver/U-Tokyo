@@ -3,7 +3,7 @@
 ###### I think taking up a lot of your time is offensive to you if you are very busy, you don't need to look at the second part, and it doesn't matter to me. And I marked the important part in red.
 #### 1.CV
 ###### For the CV, I have prepared English, Japanese, and Chinese in three languages.
-###### [日语cv](https://mubu.com/doc/oN2oIweA20 "日语CV")  
+###### [日语CV](https://mubu.com/doc/oN2oIweA20 "日语CV")  
 ###### [英语CV](https://mubu.com/doc/gsv4CCbQg0 "英语CV")  
 ###### [汉语CV](https://mubu.com/doc/zTB7LtI9G0 "汉语CV")
 #### 2.Project Research Plan
