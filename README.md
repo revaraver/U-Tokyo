@@ -5,10 +5,10 @@
 ###### You can view the contents of it by clicking the "+" in front of these headings. And I marked the paragraphs that I think are important in red.
 #### 1.CV
 ###### For the CV, I have prepared three versions of English, Japanese and Chinese respectively.
-###### [CV English](https://mubu.com/doc/gsv4CCbQg0 "CV English")   
-###### [CV 日本語](https://mubu.com/doc/oN2oIweA20 "CV日本語") 
-###### [CV 汉语](https://mubu.com/doc/zTB7LtI9G0 "CV 汉语")
+###### [CV, English](https://mubu.com/doc/gsv4CCbQg0 "CV, English")   
+###### [CV, 日本語](https://mubu.com/doc/oN2oIweA20 "CV, 日本語") 
+###### [CV, 汉语](https://mubu.com/doc/zTB7LtI9G0 "CV, 汉语")
 #### 2.Project Research Plan
 ###### For the project research plan, I have prepared two versions of English and Chinese respectively.
-###### [Project Research Plan English](https://mubu.com/doc/t5OOV61cg0 "Project Research Plan English")  
-###### [研究计划书 汉语](https://mubu.com/doc/geuvzAfls0 "研究计划书 汉语")
+###### [Project Research Plan, English](https://mubu.com/doc/t5OOV61cg0 "Project Research Plan, English")  
+###### [研究计划书, 汉语](https://mubu.com/doc/geuvzAfls0 "研究计划书, 汉语")
