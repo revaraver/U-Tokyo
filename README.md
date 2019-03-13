@@ -2,7 +2,7 @@
 ###### I am very glad that you have come in. There are two parts below. The first part is my simple CV(including my transcripts). The second part is my project research plan with a lot of details.
 ###### I think taking up a lot of your time is offensive to you if you are very busy. If so, you don't need to look at the second part, and it doesn't matter.
 ###### In order to make your viewing easier, I have prepared three versions and two versions for these two parts. Their contents are exactly the same except for the language used.
-###### You can view it by clicking the "+" in front of these headings. And I marked the paragraphs that I think are important in red.
+###### You can view the contents of it by clicking the "+" in front of these headings. And I marked the paragraphs that I think are important in red.
 #### 1.CV
 ###### For the CV, I have prepared three versions of English, Japanese and Chinese respectively.
 ###### [CV English](https://mubu.com/doc/gsv4CCbQg0 "CV English")   
